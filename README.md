@@ -4,10 +4,9 @@ This dataset is comprised of messages sent on an online social network at the Un
 
 Firstly, we plot the graph to observe the structure. It appears that there are a lot of periferal nodes that are connected to hubs and not among themselves. 
 
-Furthermore, we use 3 different assortativity metrics for directed graph to assess the assortativity of the network. The metrics' are <img src="https://latex.codecogs.com/gif.latex?\dpi{400}r_d" width="20" height="20"/>
+Furthermore, we use 3 different assortativity metrics for directed graph to assess the assortativity of the network. The metrics' are <img src="https://latex.codecogs.com/gif.latex?\dpi{400}r_d" width="15" height="10"/>
 
 
-https://latex.codecogs.com/gif.latex?\dpi{400}r_d
 
 . Their deffintions can be found in *Assortative Mixing in Directed Biological Networks, Mahendra Piraveenan 1, Mikhail Prokopenko, Albert Zomaya, 2012*.
 
