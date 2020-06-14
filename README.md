@@ -4,7 +4,7 @@ This dataset is comprised of messages sent on an online social network at the Un
 
 Firstly, we plot the graph to observe the structure. It appears that there are a lot of periferal nodes that are connected to hubs and not among themselves. 
 
-Furthermore, we use 3 different assortativity metrics for directed graph to assess the assortativity of the network. The metrics' are $r_d$, $r_in$ and $r_out$. Their deffintions can be found in *Assortative Mixing in Directed Biological Networks, Mahendra Piraveenan 1, Mikhail Prokopenko, Albert Zomaya, 2012*.
+Furthermore, we use 3 different assortativity metrics for directed graph to assess the assortativity of the network. The metrics' are $$r_d$$, $r_in$ and $r_out$. Their deffintions can be found in *Assortative Mixing in Directed Biological Networks, Mahendra Piraveenan 1, Mikhail Prokopenko, Albert Zomaya, 2012*.
 
 The 3 metrics are derived for directed graphs and in the paper they are use for different types of biological networks. Here, we use them for a social network. Usually, for social networks we have that they are assortative, i.e. the metrics are positive. In this case we see that according to this metrics the network is slightly disassortative, i.e. we obtain negative values. This is not surprising as this is a special type of social network (college network). 
 
