@@ -10,5 +10,7 @@ The 3 metrics are derived for directed graphs and in the paper they are use for 
 
 This network is likely mostly used for communication between a lot of students on one side and a few professors and TAs on the other side. Meaning that hubs are connected to the nodes with low degree. This doesn't mean that students don't use the channel to communicate amoung themselves or similarly that professors don't communciated among themselves, it only means that the majority of communication is on relation a student-professor.    
 
+By using more advanced metrics such as local assortativity we could be able to understand the functionalities of different nodes separately and therefore get more detailed information of the graph.  
+
 
 
