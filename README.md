@@ -1,6 +1,6 @@
 # Project for Networks Out Of Controle course at EPFL
 
-This dataset is comprised of messages sent on an online social network at the University of California, Irvine [Link](https://snap.stanford.edu/data/CollegeMsg.html). Graph is made out of this data such that an edge (u, v) means that user u sent a message to user v.
+The CollegeMsg dataset is comprised of messages sent on an online social network at the University of California, Irvine ([link])(https://snap.stanford.edu/data/CollegeMsg.html). Graph is made out of this data such that an edge (u, v) means that user u sent a message to user v.
 
 Firstly, we plot the graph to observe the structure. It appears that there are a lot of periferal nodes that are connected to hubs and not among themselves. 
 
