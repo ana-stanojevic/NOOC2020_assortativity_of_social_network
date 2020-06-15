@@ -8,7 +8,7 @@ Furthermore, we use 3 different assortativity metrics for directed graph to asse
 
 The 3 metrics are derived for directed graphs and in the paper they are use for different types of biological networks. Here, we use them for a social network. Usually, for social networks we have that they are assortative, i.e. the metrics are positive. In this case we see that according to this metrics the network is slightly disassortative, i.e. we obtain negative values. This is not surprising as this is a special type of social network (college network). 
 
-This network is likely mostly used for communication between a lot of students on one side and a few professors and TAs on the other side. Meaning that hubs are connected to the nodes with low degree. This doesn't mean that students don't use the channel to communicate amoung themselves or similarly that professors don't communciated among themselves, it only means that the majority of communication is on relation a student-professor.    
+This network is likely mostly used for communication between a lot of students on one side and a few professors and TAs on the other side. Meaning that hubs are connected to the nodes with low degree. This doesn't mean that students don't use the channel to communicate among themselves or similarly that professors don't communciated among themselves, it only means that the majority of communication is on relation a student-professor.    
 
 By using more advanced metrics such as local assortativity we could be able to understand the functionalities of different nodes separately and therefore get more detailed information of the graph.  
 
